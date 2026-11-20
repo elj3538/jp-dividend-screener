@@ -1,0 +1,68 @@
+name: Daily JP Dividend Screener Build & Deploy
+
+on:
+  schedule:
+    # 毎週 月〜金 19:30 JST（10:30 UTC・東証引け後）に自動更新
+    - cron: "30 10 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      rescreen:
+        description: "JPX全銘柄を再スクリーニングして universe.json を更新するか"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run JP Dividend Screener pipeline
+        run: |
+          if [ "${{ github.event.inputs.rescreen }}" = "true" ]; then
+            python main.py --rescreen --workers 3
+          else
+            python main.py --workers 3
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

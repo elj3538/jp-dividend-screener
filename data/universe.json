@@ -1,0 +1,2266 @@
+{
+  "mode": "topix500",
+  "count": 226,
+  "constituents": [
+    {
+      "code": "4502",
+      "yf_symbol": "4502.T",
+      "name": "武田薬品工業",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "2914",
+      "yf_symbol": "2914.T",
+      "name": "日本たばこ産業",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "5803",
+      "yf_symbol": "5803.T",
+      "name": "フジクラ",
+      "sector33": "非鉄金属",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": false
+    },
+    {
+      "code": "7203",
+      "yf_symbol": "7203.T",
+      "name": "トヨタ自動車",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "8031",
+      "yf_symbol": "8031.T",
+      "name": "三井物産",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "8053",
+      "yf_symbol": "8053.T",
+      "name": "住友商事",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "8058",
+      "yf_symbol": "8058.T",
+      "name": "三菱商事",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "8306",
+      "yf_symbol": "8306.T",
+      "name": "三菱ＵＦＪフィナンシャル・グループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "8316",
+      "yf_symbol": "8316.T",
+      "name": "三井住友フィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "8411",
+      "yf_symbol": "8411.T",
+      "name": "みずほフィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "8766",
+      "yf_symbol": "8766.T",
+      "name": "東京海上ホールディングス",
+      "sector33": "保険業",
+      "sector_group": "保険・証券",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "9432",
+      "yf_symbol": "9432.T",
+      "name": "ＮＴＴ",
+      "sector33": "情報・通信業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "9433",
+      "yf_symbol": "9433.T",
+      "name": "ＫＤＤＩ",
+      "sector33": "情報・通信業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "9434",
+      "yf_symbol": "9434.T",
+      "name": "ソフトバンク",
+      "sector33": "情報・通信業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Core30",
+      "is_progressive": true
+    },
+    {
+      "code": "1605",
+      "yf_symbol": "1605.T",
+      "name": "ＩＮＰＥＸ",
+      "sector33": "鉱業",
+      "sector_group": "資源・エネルギー",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "1925",
+      "yf_symbol": "1925.T",
+      "name": "大和ハウス工業",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "1928",
+      "yf_symbol": "1928.T",
+      "name": "積水ハウス",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "2502",
+      "yf_symbol": "2502.T",
+      "name": "アサヒグループホールディングス",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "2503",
+      "yf_symbol": "2503.T",
+      "name": "キリンホールディングス",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "3407",
+      "yf_symbol": "3407.T",
+      "name": "旭化成",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "4503",
+      "yf_symbol": "4503.T",
+      "name": "アステラス製薬",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "4188",
+      "yf_symbol": "4188.T",
+      "name": "三菱ケミカルグループ",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "4507",
+      "yf_symbol": "4507.T",
+      "name": "塩野義製薬",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "4519",
+      "yf_symbol": "4519.T",
+      "name": "中外製薬",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "5020",
+      "yf_symbol": "5020.T",
+      "name": "ＥＮＥＯＳホールディングス",
+      "sector33": "石油・石炭製品",
+      "sector_group": "資源・エネルギー",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "5108",
+      "yf_symbol": "5108.T",
+      "name": "ブリヂストン",
+      "sector33": "ゴム製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "5802",
+      "yf_symbol": "5802.T",
+      "name": "住友電気工業",
+      "sector33": "非鉄金属",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "6301",
+      "yf_symbol": "6301.T",
+      "name": "小松製作所",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "6326",
+      "yf_symbol": "6326.T",
+      "name": "クボタ",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "6902",
+      "yf_symbol": "6902.T",
+      "name": "デンソー",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "7267",
+      "yf_symbol": "7267.T",
+      "name": "本田技研工業",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "7182",
+      "yf_symbol": "7182.T",
+      "name": "ゆうちょ銀行",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "7751",
+      "yf_symbol": "7751.T",
+      "name": "キヤノン",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "8002",
+      "yf_symbol": "8002.T",
+      "name": "丸紅",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "8591",
+      "yf_symbol": "8591.T",
+      "name": "オリックス",
+      "sector33": "その他金融業",
+      "sector_group": "リース・信販・その他金融",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "8015",
+      "yf_symbol": "8015.T",
+      "name": "豊田通商",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "8725",
+      "yf_symbol": "8725.T",
+      "name": "ＭＳ＆ＡＤインシュアランスグループホールディングス",
+      "sector33": "保険業",
+      "sector_group": "保険・証券",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "8309",
+      "yf_symbol": "8309.T",
+      "name": "三井住友トラストグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "8630",
+      "yf_symbol": "8630.T",
+      "name": "ＳＯＭＰＯホールディングス",
+      "sector33": "保険業",
+      "sector_group": "保険・証券",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": true
+    },
+    {
+      "code": "8801",
+      "yf_symbol": "8801.T",
+      "name": "三井不動産",
+      "sector33": "不動産業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "8750",
+      "yf_symbol": "8750.T",
+      "name": "第一ライフグループ",
+      "sector33": "保険業",
+      "sector_group": "保険・証券",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "9020",
+      "yf_symbol": "9020.T",
+      "name": "東日本旅客鉄道",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "9202",
+      "yf_symbol": "9202.T",
+      "name": "ＡＮＡホールディングス",
+      "sector33": "空運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Large70",
+      "is_progressive": false
+    },
+    {
+      "code": "1332",
+      "yf_symbol": "1332.T",
+      "name": "ニッスイ",
+      "sector33": "水産・農林業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1333",
+      "yf_symbol": "1333.T",
+      "name": "Ｕｍｉｏｓ",
+      "sector33": "水産・農林業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1414",
+      "yf_symbol": "1414.T",
+      "name": "ショーボンドホールディングス",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1417",
+      "yf_symbol": "1417.T",
+      "name": "ミライト・ワン",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1719",
+      "yf_symbol": "1719.T",
+      "name": "安藤・間",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1721",
+      "yf_symbol": "1721.T",
+      "name": "コムシスホールディングス",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1801",
+      "yf_symbol": "1801.T",
+      "name": "大成建設",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": true
+    },
+    {
+      "code": "1802",
+      "yf_symbol": "1802.T",
+      "name": "大林組",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": true
+    },
+    {
+      "code": "1812",
+      "yf_symbol": "1812.T",
+      "name": "鹿島建設",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": true
+    },
+    {
+      "code": "1878",
+      "yf_symbol": "1878.T",
+      "name": "大東建託",
+      "sector33": "不動産業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1942",
+      "yf_symbol": "1942.T",
+      "name": "関電工",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1911",
+      "yf_symbol": "1911.T",
+      "name": "住友林業",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1944",
+      "yf_symbol": "1944.T",
+      "name": "きんでん",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1951",
+      "yf_symbol": "1951.T",
+      "name": "エクシオグループ",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1959",
+      "yf_symbol": "1959.T",
+      "name": "クラフティア",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1963",
+      "yf_symbol": "1963.T",
+      "name": "日揮ホールディングス",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "1969",
+      "yf_symbol": "1969.T",
+      "name": "高砂熱学工業",
+      "sector33": "建設業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2002",
+      "yf_symbol": "2002.T",
+      "name": "日清製粉グループ本社",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2181",
+      "yf_symbol": "2181.T",
+      "name": "パーソルホールディングス",
+      "sector33": "サービス業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2127",
+      "yf_symbol": "2127.T",
+      "name": "日本Ｍ＆Ａセンターホールディングス",
+      "sector33": "サービス業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2201",
+      "yf_symbol": "2201.T",
+      "name": "森永製菓",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2269",
+      "yf_symbol": "2269.T",
+      "name": "明治ホールディングス",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2267",
+      "yf_symbol": "2267.T",
+      "name": "ヤクルト本社",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2282",
+      "yf_symbol": "2282.T",
+      "name": "日本ハム",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2327",
+      "yf_symbol": "2327.T",
+      "name": "日鉄ソリューションズ",
+      "sector33": "情報・通信業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2331",
+      "yf_symbol": "2331.T",
+      "name": "ＡＬＳＯＫ",
+      "sector33": "サービス業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2587",
+      "yf_symbol": "2587.T",
+      "name": "サントリービバレッジ＆フード",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2670",
+      "yf_symbol": "2670.T",
+      "name": "エービーシー・マート",
+      "sector33": "小売業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2768",
+      "yf_symbol": "2768.T",
+      "name": "双日",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2784",
+      "yf_symbol": "2784.T",
+      "name": "アルフレッサ　ホールディングス",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "2875",
+      "yf_symbol": "2875.T",
+      "name": "東洋水産",
+      "sector33": "食料品",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3003",
+      "yf_symbol": "3003.T",
+      "name": "ヒューリック",
+      "sector33": "不動産業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3048",
+      "yf_symbol": "3048.T",
+      "name": "ビックカメラ",
+      "sector33": "小売業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3092",
+      "yf_symbol": "3092.T",
+      "name": "ＺＯＺＯ",
+      "sector33": "小売業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3099",
+      "yf_symbol": "3099.T",
+      "name": "三越伊勢丹ホールディングス",
+      "sector33": "小売業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3116",
+      "yf_symbol": "3116.T",
+      "name": "トヨタ紡織",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3231",
+      "yf_symbol": "3231.T",
+      "name": "野村不動産ホールディングス",
+      "sector33": "不動産業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3288",
+      "yf_symbol": "3288.T",
+      "name": "オープンハウスグループ",
+      "sector33": "不動産業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3289",
+      "yf_symbol": "3289.T",
+      "name": "東急不動産ホールディングス",
+      "sector33": "不動産業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3291",
+      "yf_symbol": "3291.T",
+      "name": "飯田グループホールディングス",
+      "sector33": "不動産業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3360",
+      "yf_symbol": "3360.T",
+      "name": "シップヘルスケアホールディングス",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3405",
+      "yf_symbol": "3405.T",
+      "name": "クラレ",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3591",
+      "yf_symbol": "3591.T",
+      "name": "ワコールホールディングス",
+      "sector33": "繊維製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3626",
+      "yf_symbol": "3626.T",
+      "name": "ＴＩＳＩ",
+      "sector33": "情報・通信業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3861",
+      "yf_symbol": "3861.T",
+      "name": "王子ホールディングス",
+      "sector33": "パルプ・紙",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "3941",
+      "yf_symbol": "3941.T",
+      "name": "レンゴー",
+      "sector33": "パルプ・紙",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4021",
+      "yf_symbol": "4021.T",
+      "name": "日産化学",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4043",
+      "yf_symbol": "4043.T",
+      "name": "トクヤマ",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4045",
+      "yf_symbol": "4045.T",
+      "name": "東亞合成",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4151",
+      "yf_symbol": "4151.T",
+      "name": "協和キリン",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4183",
+      "yf_symbol": "4183.T",
+      "name": "三井化学",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4202",
+      "yf_symbol": "4202.T",
+      "name": "ダイセル",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4204",
+      "yf_symbol": "4204.T",
+      "name": "積水化学工業",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4206",
+      "yf_symbol": "4206.T",
+      "name": "アイカ工業",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4205",
+      "yf_symbol": "4205.T",
+      "name": "日本ゼオン",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4403",
+      "yf_symbol": "4403.T",
+      "name": "日油",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4516",
+      "yf_symbol": "4516.T",
+      "name": "日本新薬",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4523",
+      "yf_symbol": "4523.T",
+      "name": "エーザイ",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4528",
+      "yf_symbol": "4528.T",
+      "name": "小野薬品工業",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4540",
+      "yf_symbol": "4540.T",
+      "name": "ツムラ",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4613",
+      "yf_symbol": "4613.T",
+      "name": "関西ペイント",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4768",
+      "yf_symbol": "4768.T",
+      "name": "大塚商会",
+      "sector33": "情報・通信業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4887",
+      "yf_symbol": "4887.T",
+      "name": "サワイグループホールディングス",
+      "sector33": "医薬品",
+      "sector_group": "医薬・ヘルスケア",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4927",
+      "yf_symbol": "4927.T",
+      "name": "ポーラ・オルビスホールディングス",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "4980",
+      "yf_symbol": "4980.T",
+      "name": "デクセリアルズ",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5021",
+      "yf_symbol": "5021.T",
+      "name": "コスモエネルギーホールディングス",
+      "sector33": "石油・石炭製品",
+      "sector_group": "資源・エネルギー",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5101",
+      "yf_symbol": "5101.T",
+      "name": "横浜ゴム",
+      "sector33": "ゴム製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5105",
+      "yf_symbol": "5105.T",
+      "name": "ＴＯＹＯ　ＴＩＲＥ",
+      "sector33": "ゴム製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5201",
+      "yf_symbol": "5201.T",
+      "name": "ＡＧＣ",
+      "sector33": "ガラス・土石製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5214",
+      "yf_symbol": "5214.T",
+      "name": "日本電気硝子",
+      "sector33": "ガラス・土石製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5232",
+      "yf_symbol": "5232.T",
+      "name": "住友大阪セメント",
+      "sector33": "ガラス・土石製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5233",
+      "yf_symbol": "5233.T",
+      "name": "太平洋セメント",
+      "sector33": "ガラス・土石製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5332",
+      "yf_symbol": "5332.T",
+      "name": "ＴＯＴＯ",
+      "sector33": "ガラス・土石製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5334",
+      "yf_symbol": "5334.T",
+      "name": "日本特殊陶業",
+      "sector33": "ガラス・土石製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5393",
+      "yf_symbol": "5393.T",
+      "name": "ニチアス",
+      "sector33": "ガラス・土石製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5406",
+      "yf_symbol": "5406.T",
+      "name": "神戸製鋼所",
+      "sector33": "鉄鋼",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5463",
+      "yf_symbol": "5463.T",
+      "name": "丸一鋼管",
+      "sector33": "鉄鋼",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5471",
+      "yf_symbol": "5471.T",
+      "name": "大同特殊鋼",
+      "sector33": "鉄鋼",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5714",
+      "yf_symbol": "5714.T",
+      "name": "ＤＯＷＡホールディングス",
+      "sector33": "非鉄金属",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5830",
+      "yf_symbol": "5830.T",
+      "name": "いよぎんホールディングス",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5805",
+      "yf_symbol": "5805.T",
+      "name": "ＳＷＣＣ",
+      "sector33": "非鉄金属",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5831",
+      "yf_symbol": "5831.T",
+      "name": "しずおかフィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5832",
+      "yf_symbol": "5832.T",
+      "name": "ちゅうぎんフィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5844",
+      "yf_symbol": "5844.T",
+      "name": "京都フィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5929",
+      "yf_symbol": "5929.T",
+      "name": "三和ホールディングス",
+      "sector33": "金属製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5947",
+      "yf_symbol": "5947.T",
+      "name": "リンナイ",
+      "sector33": "金属製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5938",
+      "yf_symbol": "5938.T",
+      "name": "ＬＩＸＩＬ",
+      "sector33": "金属製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "5991",
+      "yf_symbol": "5991.T",
+      "name": "日本発條",
+      "sector33": "金属製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6005",
+      "yf_symbol": "6005.T",
+      "name": "三浦工業",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6134",
+      "yf_symbol": "6134.T",
+      "name": "ＦＵＪＩ",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6136",
+      "yf_symbol": "6136.T",
+      "name": "オーエスジー",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6141",
+      "yf_symbol": "6141.T",
+      "name": "ＤＭＧ森精機",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6268",
+      "yf_symbol": "6268.T",
+      "name": "ナブテスコ",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6269",
+      "yf_symbol": "6269.T",
+      "name": "三井海洋開発",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6368",
+      "yf_symbol": "6368.T",
+      "name": "オルガノ",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6370",
+      "yf_symbol": "6370.T",
+      "name": "栗田工業",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "641A",
+      "yf_symbol": "641A.T",
+      "name": "ＮＯＫ　Ｇｒｏｕｐ",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6436",
+      "yf_symbol": "6436.T",
+      "name": "アマノ",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6448",
+      "yf_symbol": "6448.T",
+      "name": "ブラザー工業",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6472",
+      "yf_symbol": "6472.T",
+      "name": "ＮＴＮ",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6465",
+      "yf_symbol": "6465.T",
+      "name": "ホシザキ",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6471",
+      "yf_symbol": "6471.T",
+      "name": "日本精工",
+      "sector33": "機械",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6473",
+      "yf_symbol": "6473.T",
+      "name": "ジェイテクト",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6504",
+      "yf_symbol": "6504.T",
+      "name": "富士電機",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6592",
+      "yf_symbol": "6592.T",
+      "name": "マブチモーター",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6645",
+      "yf_symbol": "6645.T",
+      "name": "オムロン",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6674",
+      "yf_symbol": "6674.T",
+      "name": "ジーエス・ユアサ　コーポレーション",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6754",
+      "yf_symbol": "6754.T",
+      "name": "アンリツ",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6770",
+      "yf_symbol": "6770.T",
+      "name": "アルプスアルパイン",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6845",
+      "yf_symbol": "6845.T",
+      "name": "アズビル",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6923",
+      "yf_symbol": "6923.T",
+      "name": "スタンレー電気",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6925",
+      "yf_symbol": "6925.T",
+      "name": "ウシオ電機",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6951",
+      "yf_symbol": "6951.T",
+      "name": "日本電子",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6952",
+      "yf_symbol": "6952.T",
+      "name": "カシオ計算機",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7012",
+      "yf_symbol": "7012.T",
+      "name": "川崎重工業",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7164",
+      "yf_symbol": "7164.T",
+      "name": "全国保証",
+      "sector33": "その他金融業",
+      "sector_group": "リース・信販・その他金融",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7167",
+      "yf_symbol": "7167.T",
+      "name": "めぶきフィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7180",
+      "yf_symbol": "7180.T",
+      "name": "九州フィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7186",
+      "yf_symbol": "7186.T",
+      "name": "横浜フィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7189",
+      "yf_symbol": "7189.T",
+      "name": "西日本フィナンシャルホールディングス",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7211",
+      "yf_symbol": "7211.T",
+      "name": "三菱自動車工業",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7259",
+      "yf_symbol": "7259.T",
+      "name": "アイシン",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7270",
+      "yf_symbol": "7270.T",
+      "name": "ＳＵＢＡＲＵ",
+      "sector33": "輸送用機器",
+      "sector_group": "自動車・輸送機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7276",
+      "yf_symbol": "7276.T",
+      "name": "小糸製作所",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7327",
+      "yf_symbol": "7327.T",
+      "name": "第四北越フィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7337",
+      "yf_symbol": "7337.T",
+      "name": "ひろぎんホールディングス",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7459",
+      "yf_symbol": "7459.T",
+      "name": "メディパルホールディングス",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7729",
+      "yf_symbol": "7729.T",
+      "name": "東京精密",
+      "sector33": "精密機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7752",
+      "yf_symbol": "7752.T",
+      "name": "リコー",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7762",
+      "yf_symbol": "7762.T",
+      "name": "シチズン時計",
+      "sector33": "精密機器",
+      "sector_group": "機械・電機",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7956",
+      "yf_symbol": "7956.T",
+      "name": "ピジョン",
+      "sector33": "その他製品",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7984",
+      "yf_symbol": "7984.T",
+      "name": "コクヨ",
+      "sector33": "その他製品",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8012",
+      "yf_symbol": "8012.T",
+      "name": "長瀬産業",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "7988",
+      "yf_symbol": "7988.T",
+      "name": "ニフコ",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8020",
+      "yf_symbol": "8020.T",
+      "name": "兼松",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8060",
+      "yf_symbol": "8060.T",
+      "name": "キヤノンマーケティングジャパン",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8111",
+      "yf_symbol": "8111.T",
+      "name": "ゴールドウイン",
+      "sector33": "繊維製品",
+      "sector_group": "素材",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8088",
+      "yf_symbol": "8088.T",
+      "name": "岩谷産業",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8174",
+      "yf_symbol": "8174.T",
+      "name": "日本瓦斯",
+      "sector33": "小売業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8252",
+      "yf_symbol": "8252.T",
+      "name": "丸井グループ",
+      "sector33": "小売業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8253",
+      "yf_symbol": "8253.T",
+      "name": "クレディセゾン",
+      "sector33": "その他金融業",
+      "sector_group": "リース・信販・その他金融",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8303",
+      "yf_symbol": "8303.T",
+      "name": "ＳＢＩ新生銀行",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8331",
+      "yf_symbol": "8331.T",
+      "name": "千葉銀行",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8334",
+      "yf_symbol": "8334.T",
+      "name": "群馬銀行",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8354",
+      "yf_symbol": "8354.T",
+      "name": "ふくおかフィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8341",
+      "yf_symbol": "8341.T",
+      "name": "七十七銀行",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8359",
+      "yf_symbol": "8359.T",
+      "name": "八十二長野銀行",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8368",
+      "yf_symbol": "8368.T",
+      "name": "百五銀行",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8377",
+      "yf_symbol": "8377.T",
+      "name": "ほくほくフィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8410",
+      "yf_symbol": "8410.T",
+      "name": "セブン銀行",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8418",
+      "yf_symbol": "8418.T",
+      "name": "山口フィナンシャルグループ",
+      "sector33": "銀行業",
+      "sector_group": "銀行",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8439",
+      "yf_symbol": "8439.T",
+      "name": "東京センチュリー",
+      "sector33": "その他金融業",
+      "sector_group": "リース・信販・その他金融",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": true
+    },
+    {
+      "code": "8593",
+      "yf_symbol": "8593.T",
+      "name": "三菱ＨＣキャピタル",
+      "sector33": "その他金融業",
+      "sector_group": "リース・信販・その他金融",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": true
+    },
+    {
+      "code": "8424",
+      "yf_symbol": "8424.T",
+      "name": "芙蓉総合リース",
+      "sector33": "その他金融業",
+      "sector_group": "リース・信販・その他金融",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8473",
+      "yf_symbol": "8473.T",
+      "name": "ＳＢＩホールディングス",
+      "sector33": "証券、商品先物取引業",
+      "sector_group": "保険・証券",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8729",
+      "yf_symbol": "8729.T",
+      "name": "ソニーフィナンシャルグループ",
+      "sector33": "保険業",
+      "sector_group": "保険・証券",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8795",
+      "yf_symbol": "8795.T",
+      "name": "Ｔ＆Ｄホールディングス",
+      "sector33": "保険業",
+      "sector_group": "保険・証券",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8804",
+      "yf_symbol": "8804.T",
+      "name": "東京建物",
+      "sector33": "不動産業",
+      "sector_group": "建設・不動産",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8876",
+      "yf_symbol": "8876.T",
+      "name": "リログループ",
+      "sector33": "サービス業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9001",
+      "yf_symbol": "9001.T",
+      "name": "東武鉄道",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9003",
+      "yf_symbol": "9003.T",
+      "name": "相鉄ホールディングス",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9006",
+      "yf_symbol": "9006.T",
+      "name": "京浜急行電鉄",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9007",
+      "yf_symbol": "9007.T",
+      "name": "小田急電鉄",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9008",
+      "yf_symbol": "9008.T",
+      "name": "京王電鉄",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9021",
+      "yf_symbol": "9021.T",
+      "name": "西日本旅客鉄道",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9023",
+      "yf_symbol": "9023.T",
+      "name": "東京地下鉄",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9031",
+      "yf_symbol": "9031.T",
+      "name": "西日本鉄道",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9065",
+      "yf_symbol": "9065.T",
+      "name": "山九",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9069",
+      "yf_symbol": "9069.T",
+      "name": "センコーグループホールディングス",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9072",
+      "yf_symbol": "9072.T",
+      "name": "ニッコンホールディングス",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9076",
+      "yf_symbol": "9076.T",
+      "name": "セイノーホールディングス",
+      "sector33": "陸運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9201",
+      "yf_symbol": "9201.T",
+      "name": "日本航空",
+      "sector33": "空運業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9301",
+      "yf_symbol": "9301.T",
+      "name": "三菱倉庫",
+      "sector33": "倉庫・運輸関連業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9364",
+      "yf_symbol": "9364.T",
+      "name": "上組",
+      "sector33": "倉庫・運輸関連業",
+      "sector_group": "インフラ・運輸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9502",
+      "yf_symbol": "9502.T",
+      "name": "中部電力",
+      "sector33": "電気・ガス業",
+      "sector_group": "資源・エネルギー",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9503",
+      "yf_symbol": "9503.T",
+      "name": "関西電力",
+      "sector33": "電気・ガス業",
+      "sector_group": "資源・エネルギー",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9532",
+      "yf_symbol": "9532.T",
+      "name": "大阪瓦斯",
+      "sector33": "電気・ガス業",
+      "sector_group": "資源・エネルギー",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9744",
+      "yf_symbol": "9744.T",
+      "name": "メイテックグループホールディングス",
+      "sector33": "サービス業",
+      "sector_group": "情報通信・サービス",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9934",
+      "yf_symbol": "9934.T",
+      "name": "因幡電機産業",
+      "sector33": "卸売業",
+      "sector_group": "商社・卸",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "9989",
+      "yf_symbol": "9989.T",
+      "name": "サンドラッグ",
+      "sector33": "小売業",
+      "sector_group": "生活必需・小売",
+      "market": "プライム（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "646A",
+      "yf_symbol": "646A.T",
+      "name": "クラサスケミカル",
+      "sector33": "化学",
+      "sector_group": "素材",
+      "market": "スタンダード（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "8572",
+      "yf_symbol": "8572.T",
+      "name": "アコム",
+      "sector33": "その他金融業",
+      "sector_group": "リース・信販・その他金融",
+      "market": "スタンダード（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    },
+    {
+      "code": "6890",
+      "yf_symbol": "6890.T",
+      "name": "フェローテック",
+      "sector33": "電気機器",
+      "sector_group": "機械・電機",
+      "market": "スタンダード（内国株式）",
+      "scale": "TOPIX Mid400",
+      "is_progressive": false
+    }
+  ]
+}
